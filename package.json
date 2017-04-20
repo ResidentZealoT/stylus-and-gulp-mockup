@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "nib": "^1.1.2",
+    "stylus": "^0.54.5",
+    "typographic": "^3.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.6.0"
+  }
+}
